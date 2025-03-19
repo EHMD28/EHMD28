@@ -23,9 +23,11 @@ I am a software developer with an interest in robotics and low-level programming
 
 Here is a showcase of some of my best projects.
 
-### ![M-Calculator](https://github.com/EHMD28/m-calc_ver.4) 
+### [M-Calculator](https://github.com/EHMD28/m-calc_ver.4) 
 
 This is the first moderately-complex project I worked on. It is a fully-featured
 scientific calculator that I wrote entirely in C. It utilizes a
 recursive-descent parser to evaluate mathematical expressions. The program can
-be run either as as a REPL or through command line arguments.
+be run either as as a REPL or through command line arguments. The project resulted in me
+creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) and
+[arachne-strlib](https://github.com/EHMD28/arachne-strlib).
