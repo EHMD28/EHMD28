@@ -9,9 +9,7 @@ I am a software developer with an interest in robotics and low-level programming
 [![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://ehmd28.github.io/projects/java)
 [![kt](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)](https://ehmd28.github.io/projects/kotlin)
 [![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://ehmd28.github.io/projects/python)
-![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-![tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EHMD28&theme=blue-green)
 
