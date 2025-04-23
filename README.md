@@ -13,7 +13,7 @@ I am a software developer with an interest in robotics and low-level programming
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EHMD28&theme=blue-green)
 
-## Projects
+## Finished Projects
 
 Here is a showcase of some of my best projects.
 
@@ -25,3 +25,9 @@ recursive-descent parser to evaluate mathematical expressions. The program can
 be run either as as a REPL or through command line arguments. The project resulted in me
 creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) and
 [arachne-strlib](https://github.com/EHMD28/arachne-strlib).
+
+## Current Projects
+
+### [Kingdom Kards Game Server](https://github.com/EHMD28/kingdom-kards)
+
+THis project is a TCP server written in Rust created for a card game I invented called Kingdom Kards. 
