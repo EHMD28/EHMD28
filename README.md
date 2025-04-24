@@ -1,6 +1,6 @@
 # Greetings fellow non-robotic homosapiens.  
 
-I am a software developer with an interest in robotics and low-level programming. A full list of my projects can be found [here](https://ehmd28.github.io/). 
+I am a software developer with an interest in robotics and low-level programming. A full list of my projects can be found [here](https://ehmd28.github.io/). I mainly use Rust and Kotlin, but I also have experience in C, Java, and Python.
 
 ## Languages
 [![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://ehmd28.github.io/projects/c)
