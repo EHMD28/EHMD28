@@ -1,6 +1,6 @@
 # Greetings fellow non-robotic homosapiens.  
 
-I am a software developer with an interest in robotics and low-level programming. A full list of my projects can be found [here](https://ehmd28.github.io/). I mainly use Rust and Kotlin, but I also have experience in C, Java, and Python.
+I am a software developer with an interest in robotics and low-level programming. A full list of my projects can be found [here](https://ehmd28.github.io/projects). I mainly use Rust and Kotlin, but I also have experience in C, Java, and Python.
 
 ## Languages
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -25,6 +25,10 @@ recursive-descent parser to evaluate mathematical expressions. The program can
 be run either as as a REPL or through command line arguments. The project resulted in me
 creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) and
 [arachne-strlib](https://github.com/EHMD28/arachne-strlib).
+
+### [Chef Suggest Desktop](https://github.com/EHMD28/ChefSuggest/desktop)
+
+I made this project for a family member because they dind't want to deal with the hassle of figuring out what to have for dinner each week. The program is a meal suggestor, where the generated meals can be filtered and saved. I plan to make a mobile app to go along with this one. I also want to connect the meals to a database. 
 
 ## Current Projects
 
