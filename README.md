@@ -28,6 +28,11 @@ creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) 
 
 ## Current Projects
 
-### [Kingdom Kards Game Server](https://github.com/EHMD28/kingdom-kards)
+### [Minerva Study Tool](https://EHMD28.github.io/programs/minerva)
 
-THis project is a TCP server written in Rust created for a card game I invented called Kingdom Kards. 
+This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so I decided to make my own program instead. Right now, there are only a few features I
+still a few features I need to implement, but the essentials are working. 
+
+### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
+
+Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
