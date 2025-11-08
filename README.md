@@ -26,7 +26,7 @@ be run either as as a REPL or through command line arguments. The project result
 creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) and
 [arachne-strlib](https://github.com/EHMD28/arachne-strlib).
 
-### [Chef Suggest Desktop](https://github.com/EHMD28/ChefSuggest/desktop)
+### [Chef Suggest Desktop](https://github.com/EHMD28/ChefSuggest)
 
 I made this project for a family member because they dind't want to deal with the hassle of figuring out what to have for dinner each week. The program is a meal suggestor, where the generated meals can be filtered and saved. I plan to make a mobile app to go along with this one. I also want to connect the meals to a database. 
 
