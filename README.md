@@ -40,3 +40,7 @@ still a few features I need to implement, but the essentials are working.
 ### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
 
 Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
+
+### [Cosmo Text Editor](https://github.com/EHMD28/cosmo-text-editor)
+
+I am creating a terminal text editor to learn more about creating TUIs in preparation for my re-write of my kingdom-kards project. 
