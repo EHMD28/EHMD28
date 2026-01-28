@@ -30,6 +30,10 @@ creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) 
 
 I made this project for a family member because they dind't want to deal with the hassle of figuring out what to have for dinner each week. The program is a meal suggestor, where the generated meals can be filtered and saved. I plan to make a mobile app to go along with this one. I also want to connect the meals to a database. 
 
+### [Cosmo Text Editor](https://github.com/EHMD28/cosmo-text-editor)
+
+I am creating a terminal-based text editor using Ratatui to learn more about creating TUIs in preparation for my re-write of my kingdom-kards project. It's honestly not a good text editor, but it works technically. It even supports Unicode.
+
 ## Current Projects
 
 ### [Minerva Study Tool](https://EHMD28.github.io/programs/minerva)
@@ -40,7 +44,3 @@ still a few features I need to implement, but the essentials are working.
 ### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
 
 Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
-
-### [Cosmo Text Editor](https://github.com/EHMD28/cosmo-text-editor)
-
-I am creating a terminal text editor to learn more about creating TUIs in preparation for my re-write of my kingdom-kards project. 
