@@ -38,8 +38,7 @@ I am creating a terminal-based text editor using Ratatui to learn more about cre
 
 ### [Minerva Study Tool](https://EHMD28.github.io/programs/minerva)
 
-This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so I decided to make my own program instead. Right now, there are only a few features I
-still a few features I need to implement, but the essentials are working. 
+This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so I decided to make my own program instead. Right now, there are still a few features I need to implement, but the essentials are working. 
 
 ### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
 
