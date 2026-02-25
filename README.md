@@ -11,6 +11,8 @@ I am a software developer with an interest in robotics and low-level programming
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
+[![EHMD28's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehmd28)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EHMD28&theme=blue-green) -->
 
 ## Finished Projects
