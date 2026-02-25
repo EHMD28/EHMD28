@@ -1,6 +1,6 @@
 # Greetings fellow non-robotic homosapiens.  
 
-I am a software developer with an interest in robotics and low-level programming. A full list of my projects can be found [here](https://ehmd28.github.io/projects). I mainly use Rust and Kotlin, but I also have experience in C, Java, and Python.
+I am a software developer with an interest in robotics, control systems, and low-level programming. A full list of my projects can be found on [my personal website](https://ehmd28.github.io/projects). I mainly use Rust and Kotlin, but I also have experience in C, Java, and Python.
 
 ## Languages/Tools
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -10,8 +10,6 @@ I am a software developer with an interest in robotics and low-level programming
 ![kt](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
-
-[![EHMD28's GitHub stats](https://github-readme-stats.vercel.app/api?username=ehmd28)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EHMD28&theme=blue-green) -->
 
