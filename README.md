@@ -11,8 +11,6 @@ I am a software developer with an interest in robotics, control systems, and low
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
 
-<!-- ![stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EHMD28&theme=blue-green) -->
-
 ## Finished Projects
 
 Here is a showcase of some of my best projects.
@@ -43,3 +41,7 @@ This project is a flashcard study tool I am making to help me study French. I or
 ### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
 
 Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
+
+### [Learning SciPy](https://github.com/EHMD28/learn-scipy)
+
+Currently, I'm learning how to use SciPy as part of my capstone project. I'm working with a physicist at OSU to develop an interactive physics application for exploring the equation of state for neutron star matter.
