@@ -1,8 +1,7 @@
 # Greetings fellow non-robotic homosapiens.  
 
 I am a software developer with an interest in robotics, control systems, and low-level programming. A full list of my projects can be found on
-[my personal website](https://ehmd28.github.io/projects). I mainly use Rust, Kotlin, and Python, but I also have experience in C, Java, and web
-development with SvelteKit and TypeScript.
+[my personal website](https://ehmd28.github.io/projects).
 
 ## Languages/Tools
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -12,6 +11,9 @@ development with SvelteKit and TypeScript.
 ![kt](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
 ![py](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![svelte](https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00)
+
+I mainly use Rust, Kotlin, and Python, but I also have experience in C, Java, and web
+development with SvelteKit and TypeScript. I want to branch out into more electronics-heavy projects in the future.
 
 ## Finished Projects
 
