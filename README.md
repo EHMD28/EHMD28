@@ -2,7 +2,7 @@
 
 I am a software developer with an interest in robotics, control systems, and low-level programming. A full list of my projects can be found on
 [my personal website](https://ehmd28.github.io/projects). I mainly use Rust, Kotlin, and Python, but I also have experience in C, Java, and web
-development with SveleKit and TypeScript.
+development with SvelteKit and TypeScript.
 
 ## Languages/Tools
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
