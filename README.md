@@ -1,6 +1,8 @@
 # Greetings fellow non-robotic homosapiens.  
 
-I am a software developer with an interest in robotics, control systems, and low-level programming. A full list of my projects can be found on [my personal website](https://ehmd28.github.io/projects). I mainly use Rust and Kotlin, but I also have experience in C, Java, and Python.
+I am a software developer with an interest in robotics, control systems, and low-level programming. A full list of my projects can be found on
+[my personal website](https://ehmd28.github.io/projects). I mainly use Rust, Kotlin, and Python, but I also have experience in C, Java, and web
+development with SveleKit and TypeScript.
 
 ## Languages/Tools
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -26,22 +28,28 @@ creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) 
 
 ### [Chef Suggest Desktop](https://github.com/EHMD28/ChefSuggest)
 
-I made this project for a family member because they dind't want to deal with the hassle of figuring out what to have for dinner each week. The program is a meal suggestor, where the generated meals can be filtered and saved. I plan to make a mobile app to go along with this one. I also want to connect the meals to a database. 
+I made this project for a family member because they dind't want to deal with the hassle of figuring out what to have for dinner each week. The program is
+a meal suggestor, where the generated meals can be filtered and saved. I plan to make a mobile app to go along with this one. I also want to connect the meals
+to a database. 
 
 ### [Cosmo Text Editor](https://github.com/EHMD28/cosmo-text-editor)
 
-I am creating a terminal-based text editor using Ratatui to learn more about creating TUIs in preparation for my re-write of my kingdom-kards project. It's honestly not a good text editor, but it works technically. It even supports Unicode.
+I am creating a terminal-based text editor using Ratatui to learn more about creating TUIs in preparation for my re-write of my kingdom-kards project. It's
+honestly not a good text editor, but it works technically. It even supports Unicode.
 
 ## Current Projects
 
 ### [Minerva Study Tool](https://EHMD28.github.io/programs/minerva)
 
-This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so I decided to make my own program instead. Right now, there are still a few features I need to implement, but the essentials are working. 
+This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so
+I decided to make my own program instead. Right now, there are still a few features I need to implement, but the essentials are working. 
 
 ### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
 
-Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
+Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version
+of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
 
 ### [Learning SciPy](https://github.com/EHMD28/learn-scipy)
 
-Currently, I'm learning how to use SciPy as part of my capstone project. I'm working with a physicist at OSU to develop an interactive physics application for exploring the equation of state for neutron star matter.
+Currently, I'm learning how to use SciPy as part of my capstone project. I'm working with a physicist at OSU to develop an interactive physics application
+for exploring the equation of state for neutron-star matter.
