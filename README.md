@@ -41,6 +41,17 @@ honestly not a good text editor, but it works technically. It even supports Unic
 
 ## Current Projects
 
+### [Kingdom Kards Game Server](https://github.com/EHMD28/kingdom-kards)
+
+This is a game server for a card game I created called Kingdom Kards. It's still a WIP.
+
+### [Learning SciPy](https://github.com/EHMD28/learn-scipy)
+
+Currently, I'm learning how to use SciPy as part of my capstone project. I'm working with a physicist at OSU to develop an interactive physics application
+for exploring the equation of state for neutron-star matter.
+
+## Future Projects
+
 ### [Minerva Study Tool](https://EHMD28.github.io/programs/minerva)
 
 This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so
@@ -50,8 +61,3 @@ I decided to make my own program instead. Right now, there are still a few featu
 
 Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version
 of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
-
-### [Learning SciPy](https://github.com/EHMD28/learn-scipy)
-
-Currently, I'm learning how to use SciPy as part of my capstone project. I'm working with a physicist at OSU to develop an interactive physics application
-for exploring the equation of state for neutron-star matter.
