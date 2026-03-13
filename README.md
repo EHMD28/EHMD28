@@ -1,6 +1,6 @@
 # Greetings fellow non-robotic homosapiens.  
 
-I am a software developer with an interest in robotics, control systems, and low-level programming. A full list of my projects can be found on
+I am a software developer with an interest in robotics, control systems, low-level programming, and physics. A full list of my projects can be found on
 [my personal website](https://ehmd28.github.io/projects).
 
 ## Languages/Tools
