@@ -4,6 +4,7 @@ I am a software developer with an interest in robotics, control systems, low-lev
 [my personal website](https://ehmd28.github.io/projects).
 
 ## Languages/Tools
+
 ![c](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![rs](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
@@ -15,49 +16,8 @@ I am a software developer with an interest in robotics, control systems, low-lev
 I mainly use Rust, Kotlin, and Python, but I also have experience in C, Java, and web
 development with SvelteKit and TypeScript. I want to branch out into more electronics-heavy projects in the future.
 
-## Finished Projects
-
-Here is a showcase of some of my best projects.
-
-### [M-Calculator](https://github.com/EHMD28/m-calc_ver.4) 
-
-This is the first moderately-complex project I worked on. It is a fully-featured
-scientific calculator that I wrote entirely in C. It utilizes a
-recursive-descent parser to evaluate mathematical expressions. The program can
-be run either as as a REPL or through command line arguments. The project resulted in me
-creating two header libraries: [m-logging](https://github.com/EHMD28/m-logging) and
-[arachne-strlib](https://github.com/EHMD28/arachne-strlib).
-
-### [Chef Suggest Desktop](https://github.com/EHMD28/ChefSuggest)
-
-I made this project for a family member because they dind't want to deal with the hassle of figuring out what to have for dinner each week. The program is
-a meal suggestor, where the generated meals can be filtered and saved. I plan to make a mobile app to go along with this one. I also want to connect the meals
-to a database. 
-
-### [Cosmo Text Editor](https://github.com/EHMD28/cosmo-text-editor)
-
-I am creating a terminal-based text editor using Ratatui to learn more about creating TUIs in preparation for my re-write of my kingdom-kards project. It's
-honestly not a good text editor, but it works technically. It even supports Unicode.
-
 ## Current Projects
 
-### [Kingdom Kards Game Server](https://github.com/EHMD28/kingdom-kards)
+I'm currently learning how to design PCBs using KiCad. I don't have a specific project in mind yet, but I am learning more about digital electronics. I'm thinking about designing my own motor controller, similar to a Rev Robotics SPARK MAX.
 
-This is a game server for a card game I created called Kingdom Kards. It's still a WIP.
-
-### [Learning SciPy](https://github.com/EHMD28/learn-scipy)
-
-Currently, I'm learning how to use SciPy as part of my capstone project. I'm working with a physicist at OSU to develop an interactive physics application
-for exploring the equation of state for neutron-star matter.
-
-## Future Projects
-
-### [Minerva Study Tool](https://EHMD28.github.io/programs/minerva)
-
-This project is a flashcard study tool I am making to help me study French. I originally used Quizlet, but I didn't feel like paying for a pro membership, so
-I decided to make my own program instead. Right now, there are still a few features I need to implement, but the essentials are working. 
-
-### [Android Development](https://developer.android.com/courses/android-basics-compose/course)
-
-Right now, I am working my way through the "Android Basics with Compose" course offered by the official Android developers. I plan to make a mobile app version
-of the [Chef Suggest](https://github.com/EHMD28/ChefSuggest) program I already made.
+I also want to finish the Kingdom Kards game server I started. I'm currently in the process of working out exactly what I want the server architecture to look like. 
