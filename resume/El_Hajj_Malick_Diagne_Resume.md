@@ -7,10 +7,10 @@
 
 
 # Objective
-Aspiring robotics software engineer and researcher with a interest in embedded systems, low-level programming, and computational physics. Enjoys learning skills using a project-based approach and understanding how technology works internally.
+Aspiring robotics software engineer and researcher with a interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
 
 # Education
-## **Metro Early College High School**, STEM-focused High School
+## **Metro Early College High School**
 
 
 
@@ -26,7 +26,7 @@ Aug 2023 – present
 
 
 
-## **The Ohio State University**, Early College Experience
+## **The Ohio State University**, Early College Experience Student
 
 
 
@@ -41,7 +41,7 @@ Jan 2025 – present
 
 
 # Experience
-## **The Metrobots**, Programming Manager
+## **The Metrobots (FRC Team 3324)**, Programming Manager
 
 Columbus, OH
 
@@ -72,7 +72,7 @@ Spring 2025 - 2026
 
 
 # Projects
-## **Astrophysics Research Capstone**
+## **Neutron-Star Matter Modeling Program**
 
 Spring 2026
 
@@ -82,12 +82,19 @@ Spring 2026
 
 
 
+## **Shift Register Control Panel**
+
+October 2026
+
+- Designed and helped assemble a fully functional printed-circuit board based around the 74HC595 shift register chip for a STEM outreach event.
+
+- Coordinated with professional engineers to review and manufacture the PCB.
+
+
+
 # Skills
 **Programming Languages:** C, Rust, Python, TypeScript, Kotlin, Java
 
 **Platforms & Frameworks:** Arduino, ESP32, Raspberry Pi, SvelteKit, Android
 
 **Software:** Onshape (3D Modeling), KiCad (Printed Circuit Board Design), Linux (Command-Line Interface)
-
-# Areas of Interest
-Robotics control systems, swarm robot algorithms, kinematics simulations, physics and mathematics visualizations.

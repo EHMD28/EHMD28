@@ -11,11 +11,11 @@ cv:
   
   sections: 
     objective:
-    - Aspiring robotics software engineer and researcher with a interest in embedded systems, low-level programming, and computational physics. Enjoys learning skills using a project-based approach and understanding how technology works internally. 
+    - Aspiring robotics software engineer and researcher with a interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally. 
 
     education:
       - institution: Metro Early College High School
-        area: "STEM-focused High School"
+        area: ""
         location: Columbus, OH
         start_date: 2023-08
         end_date: present
@@ -23,7 +23,7 @@ cv:
           - "GPA: 4.23 (weighted)"
           - Completed the DESIGN (engineering) pathway and a capstone project.
       - institution: The Ohio State University
-        area: Early College Experience
+        area: Early College Experience Student
         location: Columbus, OH
         start_date: 2025-01
         end_date: present
@@ -31,7 +31,7 @@ cv:
         - "GPA: 4.00"
     
     experience:
-    - company: The Metrobots
+    - company: The Metrobots (FRC Team 3324)
       position: Programming Manager
       location: Columbus, OH
       start_date: 2024-08
@@ -49,11 +49,16 @@ cv:
       -  Answered questions for students when the teacher was unavailable, which included re-teaching concepts from previous courses.
 
     projects:
-    - name: Astrophysics Research Capstone
+    - name: Neutron-Star Matter Modeling Program
       date: Spring 2026
       highlights: 
         - Developed an interactive web application using Python to model the structure of neutron-star matter under the mentorship of a tenured Ohio State University physicist.
         - Utilized industry-standard data science and computational modeling libraries (Numpy, SciPy, Matplotlib, and Pandas).
+    - name: Shift Register Control Panel
+      date: October 2026
+      highlights:
+      - Designed and helped assemble a fully functional printed-circuit board based around the 74HC595 shift register chip for a STEM outreach event. 
+      - Coordinated with professional engineers to review and manufacture the PCB.
 
     skills:
       - label: Programming Languages
@@ -62,9 +67,6 @@ cv:
         details: Arduino, ESP32, Raspberry Pi, SvelteKit, Android
       - label: Software
         details: Onshape (3D Modeling), KiCad (Printed Circuit Board Design), Linux (Command-Line Interface)
-
-    "Areas of Interest":
-      - Robotics control systems, swarm robot algorithms, kinematics simulations, physics and mathematics visualizations.
 
 
 design:
@@ -238,18 +240,18 @@ locale:
 settings:
   current_date: today
   render_command:
-    output_folder: rendercv_output
+    output_folder: resume
     design:
     locale:
-    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.typ
-    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.pdf
-    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.md
-    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.html
-    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_CV.png
+    typst_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_Resume.typ
+    pdf_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_Resume.pdf
+    markdown_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_Resume.md
+    html_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_Resume.html
+    png_path: OUTPUT_FOLDER/NAME_IN_SNAKE_CASE_Resume.png
     dont_generate_markdown: false
     dont_generate_html: false
     dont_generate_typst: false
     dont_generate_pdf: false
     dont_generate_png: false
   bold_keywords: []
-  pdf_title: NAME - RESUME
+  pdf_title: NAME - Resume

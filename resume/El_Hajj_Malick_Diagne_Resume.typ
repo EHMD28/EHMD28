@@ -4,7 +4,7 @@
 // Apply the rendercv template with custom configuration
 #show: rendercv.with(
   name: "El Hajj Malick Diagne",
-  title: "El Hajj Malick Diagne - RESUME",
+  title: "El Hajj Malick Diagne - Resume",
   footer: context { [#emph[El Hajj Malick Diagne -- #str(here().page())\/#str(counter(page).final().first())]] },
   top-note: [ #emph[Last updated in Oct 2026] ],
   locale-catalog-language: "en",
@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 10,
-    day: 24,
+    day: 29,
   ),
 )
 
@@ -100,13 +100,13 @@
 
 == Objective
 
-Aspiring robotics software engineer and researcher with a interest in embedded systems, low-level programming, and computational physics. Enjoys learning skills using a project-based approach and understanding how technology works internally.
+Aspiring robotics software engineer and researcher with a interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
 
 == Education
 
 #education-entry(
   [
-    #strong[Metro Early College High School], STEM-focused High School
+    #strong[Metro Early College High School]
 
     - GPA: 4.23 (weighted)
 
@@ -126,7 +126,7 @@ Aspiring robotics software engineer and researcher with a interest in embedded s
 
 #education-entry(
   [
-    #strong[The Ohio State University], Early College Experience
+    #strong[The Ohio State University], Early College Experience Student
 
     - GPA: 4.00
 
@@ -146,7 +146,7 @@ Aspiring robotics software engineer and researcher with a interest in embedded s
 
 #regular-entry(
   [
-    #strong[The Metrobots], Programming Manager
+    #strong[The Metrobots (FRC Team 3324)], Programming Manager
 
     - Assisted with programming multiple robots which competed in First Robotics Competition (FRC) competitions.
 
@@ -188,7 +188,7 @@ Aspiring robotics software engineer and researcher with a interest in embedded s
 
 #regular-entry(
   [
-    #strong[Astrophysics Research Capstone]
+    #strong[Neutron-Star Matter Modeling Program]
 
     - Developed an interactive web application using Python to model the structure of neutron-star matter under the mentorship of a tenured Ohio State University physicist.
 
@@ -201,6 +201,21 @@ Aspiring robotics software engineer and researcher with a interest in embedded s
   ],
 )
 
+#regular-entry(
+  [
+    #strong[Shift Register Control Panel]
+
+    - Designed and helped assemble a fully functional printed-circuit board based around the 74HC595 shift register chip for a STEM outreach event.
+
+    - Coordinated with professional engineers to review and manufacture the PCB.
+
+  ],
+  [
+    October 2026
+
+  ],
+)
+
 == Skills
 
 #strong[Programming Languages:] C, Rust, Python, TypeScript, Kotlin, Java
@@ -208,7 +223,3 @@ Aspiring robotics software engineer and researcher with a interest in embedded s
 #strong[Platforms & Frameworks:] Arduino, ESP32, Raspberry Pi, SvelteKit, Android
 
 #strong[Software:] Onshape (3D Modeling), KiCad (Printed Circuit Board Design), Linux (Command-Line Interface)
-
-== Areas of Interest
-
-Robotics control systems, swarm robot algorithms, kinematics simulations, physics and mathematics visualizations.

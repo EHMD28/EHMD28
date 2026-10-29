@@ -1,10 +1,15 @@
 {
+    "cSpell.files": [
+        "README.md",
+        "Resume.yaml"
+    ],
     "cSpell.words": [
         "Diagne",
         "EHMD",
         "Malick",
         "Matplotlib",
         "Metrobots",
+        "multiplatform",
         "Numpy",
         "Onshape",
         "precalculus"
