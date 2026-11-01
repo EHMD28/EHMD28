@@ -7,7 +7,7 @@
 
 
 # Objective
-Aspiring robotics software engineer and researcher with a interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
+Aspiring robotics software engineer and researcher with an interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
 
 # Education
 ## **Metro Early College High School**
@@ -49,13 +49,13 @@ Aug 2024 – present
 
 
 
-2 years 3 months
+2 years 4 months
 
 - Assisted with programming multiple robots which competed in First Robotics Competition (FRC) competitions.
 
 - Led two simultaneous outreach projects to teach middle and high school students about digital electronics.
 
-- Overhauled the team website to use a modern web development framework (SvelteKit).
+- Overhauled the team's website to use a modern web development framework (SvelteKit).
 
 
 
@@ -76,9 +76,9 @@ Spring 2025 - 2026
 
 Spring 2026
 
-- Developed an interactive web application using Python to model the structure of neutron-star matter under the mentorship of a tenured Ohio State University physicist.
+- Developed an interactive web application using Python to model the structure of neutron-star matter under the mentorship of an Ohio State University physics professor.
 
-- Utilized industry-standard data science and computational modeling libraries (Numpy, SciPy, Matplotlib, and Pandas).
+- Utilized industry-standard data science and computational modeling libraries (NumPy, SciPy, Matplotlib, and Pandas).
 
 
 
@@ -86,15 +86,15 @@ Spring 2026
 
 October 2026
 
-- Designed and helped assemble a fully functional printed-circuit board based around the 74HC595 shift register chip for a STEM outreach event.
+- Designed and helped assemble a fully functional printed-circuit board (PCB) based around the 74HC595 shift register chip for a STEM outreach event.
 
 - Coordinated with professional engineers to review and manufacture the PCB.
 
 
 
 # Skills
-**Programming Languages:** C, Rust, Python, TypeScript, Kotlin, Java
+**Programming Languages:** C, Rust, Python, TypeScript, Kotlin, and Java
 
-**Platforms & Frameworks:** Arduino, ESP32, Raspberry Pi, SvelteKit, Android
+**Platforms & Frameworks:** Arduino, ESP32, Raspberry Pi, SvelteKit, and Android
 
-**Software:** Onshape (3D Modeling), KiCad (Printed Circuit Board Design), Linux (Command-Line Interface)
+**Software:** Onshape (3D modeling), KiCad (printed circuit board design), Linux (command-line interface), Git (version control), and Github

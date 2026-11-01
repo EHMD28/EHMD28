@@ -6,7 +6,7 @@
   name: "El Hajj Malick Diagne",
   title: "El Hajj Malick Diagne - Resume",
   footer: context { [#emph[El Hajj Malick Diagne -- #str(here().page())\/#str(counter(page).final().first())]] },
-  top-note: [ #emph[Last updated in Oct 2026] ],
+  top-note: [ #emph[Last updated in Nov 2026] ],
   locale-catalog-language: "en",
   text-direction: ltr,
   page-size: "us-letter",
@@ -80,8 +80,8 @@
   entries-highlights-space-between-bullet-and-text: 0.5em,
   date: datetime(
     year: 2026,
-    month: 10,
-    day: 29,
+    month: 11,
+    day: 1,
   ),
 )
 
@@ -100,7 +100,7 @@
 
 == Objective
 
-Aspiring robotics software engineer and researcher with a interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
+Aspiring robotics software engineer and researcher with an interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
 
 == Education
 
@@ -152,7 +152,7 @@ Aspiring robotics software engineer and researcher with a interest in control sy
 
     - Led two simultaneous outreach projects to teach middle and high school students about digital electronics.
 
-    - Overhauled the team website to use a modern web development framework (SvelteKit).
+    - Overhauled the team's website to use a modern web development framework (SvelteKit).
 
   ],
   [
@@ -162,7 +162,7 @@ Aspiring robotics software engineer and researcher with a interest in control sy
 
     
 
-    2 years 3 months
+    2 years 4 months
 
   ],
 )
@@ -190,9 +190,9 @@ Aspiring robotics software engineer and researcher with a interest in control sy
   [
     #strong[Neutron-Star Matter Modeling Program]
 
-    - Developed an interactive web application using Python to model the structure of neutron-star matter under the mentorship of a tenured Ohio State University physicist.
+    - Developed an interactive web application using Python to model the structure of neutron-star matter under the mentorship of an Ohio State University physics professor.
 
-    - Utilized industry-standard data science and computational modeling libraries (Numpy, SciPy, Matplotlib, and Pandas).
+    - Utilized industry-standard data science and computational modeling libraries (NumPy, SciPy, Matplotlib, and Pandas).
 
   ],
   [
@@ -205,7 +205,7 @@ Aspiring robotics software engineer and researcher with a interest in control sy
   [
     #strong[Shift Register Control Panel]
 
-    - Designed and helped assemble a fully functional printed-circuit board based around the 74HC595 shift register chip for a STEM outreach event.
+    - Designed and helped assemble a fully functional printed-circuit board (PCB) based around the 74HC595 shift register chip for a STEM outreach event.
 
     - Coordinated with professional engineers to review and manufacture the PCB.
 
@@ -218,8 +218,8 @@ Aspiring robotics software engineer and researcher with a interest in control sy
 
 == Skills
 
-#strong[Programming Languages:] C, Rust, Python, TypeScript, Kotlin, Java
+#strong[Programming Languages:] C, Rust, Python, TypeScript, Kotlin, and Java
 
-#strong[Platforms & Frameworks:] Arduino, ESP32, Raspberry Pi, SvelteKit, Android
+#strong[Platforms & Frameworks:] Arduino, ESP32, Raspberry Pi, SvelteKit, and Android
 
-#strong[Software:] Onshape (3D Modeling), KiCad (Printed Circuit Board Design), Linux (Command-Line Interface)
+#strong[Software:] Onshape (3D modeling), KiCad (printed circuit board design), Linux (command-line interface), Git (version control), and Github
