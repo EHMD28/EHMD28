@@ -22,6 +22,8 @@ Aug 2023 – present
 
 - GPA: 4.23 (weighted)
 
+- ACT: 33
+
 - Completed the DESIGN (engineering) pathway and a capstone project.
 
 

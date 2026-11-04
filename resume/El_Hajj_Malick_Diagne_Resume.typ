@@ -110,6 +110,8 @@ Aspiring robotics software engineer and researcher with an interest in control s
 
     - GPA: 4.23 (weighted)
 
+    - ACT: 33
+
     - Completed the DESIGN (engineering) pathway and a capstone project.
 
   ],

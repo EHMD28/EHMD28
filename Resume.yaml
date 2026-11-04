@@ -14,14 +14,6 @@ cv:
     - Aspiring robotics software engineer and researcher with an interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally. 
 
     education:
-      - institution: Metro Early College High School
-        area: ""
-        location: Columbus, OH
-        start_date: 2023-08
-        end_date: present
-        highlights: 
-          - "GPA: 4.23 (weighted)"
-          - Completed the DESIGN (engineering) pathway and a capstone project.
       - institution: The Ohio State University
         area: Early College Experience Student
         location: Columbus, OH
@@ -29,6 +21,15 @@ cv:
         end_date: present
         highlights: 
         - "GPA: 4.00"
+      - institution: Metro Early College High School
+        area: ""
+        location: Columbus, OH
+        start_date: 2023-08
+        end_date: present
+        highlights: 
+          - "GPA: 4.23 (weighted)"
+          - "ACT: 33"
+          - Completed the DESIGN (engineering) pathway and a capstone project.
     
     experience:
     - company: The Metrobots (FRC Team 3324)
