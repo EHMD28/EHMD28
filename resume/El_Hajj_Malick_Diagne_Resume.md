@@ -10,6 +10,20 @@
 Aspiring robotics software engineer and researcher with an interest in control systems, embedded programming, and computational physics. Enjoys learning new skills using a project-based approach and understanding how technology works internally.
 
 # Education
+## **The Ohio State University**, Early College Experience Student
+
+
+
+
+Columbus, OH
+
+
+Jan 2025 – present
+
+- GPA: 4.00
+
+
+
 ## **Metro Early College High School**
 
 
@@ -25,20 +39,6 @@ Aug 2023 – present
 - ACT: 33
 
 - Completed the DESIGN (engineering) pathway and a capstone project.
-
-
-
-## **The Ohio State University**, Early College Experience Student
-
-
-
-
-Columbus, OH
-
-
-Jan 2025 – present
-
-- GPA: 4.00
 
 
 

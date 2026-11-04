@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 11,
-    day: 1,
+    day: 3,
   ),
 )
 
@@ -106,6 +106,24 @@ Aspiring robotics software engineer and researcher with an interest in control s
 
 #education-entry(
   [
+    #strong[The Ohio State University], Early College Experience Student
+
+    - GPA: 4.00
+
+  ],
+  [
+    Columbus, OH
+
+    Jan 2025 – present
+
+  ],
+  degree-column: [
+    
+  ],
+)
+
+#education-entry(
+  [
     #strong[Metro Early College High School]
 
     - GPA: 4.23 (weighted)
@@ -119,24 +137,6 @@ Aspiring robotics software engineer and researcher with an interest in control s
     Columbus, OH
 
     Aug 2023 – present
-
-  ],
-  degree-column: [
-    
-  ],
-)
-
-#education-entry(
-  [
-    #strong[The Ohio State University], Early College Experience Student
-
-    - GPA: 4.00
-
-  ],
-  [
-    Columbus, OH
-
-    Jan 2025 – present
 
   ],
   degree-column: [
