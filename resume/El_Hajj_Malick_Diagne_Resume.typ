@@ -81,7 +81,7 @@
   date: datetime(
     year: 2026,
     month: 11,
-    day: 3,
+    day: 11,
   ),
 )
 
@@ -181,7 +181,7 @@ Aspiring robotics software engineer and researcher with an interest in control s
   [
     Columbus, OH
 
-    Spring 2025 - 2026
+    Spring 2025 & 2026
 
   ],
 )

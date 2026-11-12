@@ -65,7 +65,7 @@ Aug 2024 – present
 
 Columbus, OH
 
-Spring 2025 - 2026
+Spring 2025 & 2026
 
 - Tutored students in trigonometry, precalculus, and calculus work to assist students in grasping the course material.
 
